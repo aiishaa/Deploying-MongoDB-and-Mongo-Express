@@ -38,7 +38,7 @@ minikube ip
 ```
 ### To directly access service
 ```
-minikube service webapp-service
+minikube service mongo-express-service
 ```
 
 ### To stop cluster 
