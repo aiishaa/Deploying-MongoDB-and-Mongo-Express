@@ -1,7 +1,4 @@
 # Deploying-MongoDB-and-Mongo-Express
-<div align="center">
-Deploying mongo express and mongodb using kubernetes
-</div>
   
 ## Installation
 
