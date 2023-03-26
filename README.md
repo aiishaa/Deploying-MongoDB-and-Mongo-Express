@@ -1,12 +1,7 @@
 # Deploying-MongoDB-and-Mongo-Express
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="Kubernetes-Logo.png" alt="Logo" width="250" height="150">
-  </a>
-  
-  <br/>
-Deploying node.js app with mongodb using kubernetes
-  </div>
+Deploying mongo express and mongodb using kubernetes
+</div>
   
 ## Installation
 
